@@ -1,2 +1,2 @@
 # Hello-World
-This will be my warehouse for all the projects and coding progress. 
+I am a newbie of coding world. I want to become a web developer.  
